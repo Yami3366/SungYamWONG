@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Software engineering portfolio </h3>
+<p align="left">Final Capstone </p>
 <a href="https://github.com/Yami3366/finalCapstone" target="_blank" rel="noreferrer">
 <img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="170" width="250" ></a>
 
@@ -24,7 +25,6 @@
 <img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="170" width="250" ></a>
 
 <p align="left">
-  ![alt text](https://github.com/Yami3366/yami3366.github.io/blob/main/lookingjobs.jpeg?raw=true)
 <div id="content">
 
 
