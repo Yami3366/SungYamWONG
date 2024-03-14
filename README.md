@@ -24,6 +24,7 @@
 <img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="170" width="250" ></a>
 
 <p align="left">
+  ![alt text](https://github.com/Yami3366/yami3366.github.io/blob/main/lookingjobs.jpeg?raw=true)
 <div id="content">
 
 
