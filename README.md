@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sung</h1>
-<h3 align="center">A passionate SQL, Database, Data Analyst and Develop a Python automation program.</h3>
+<h1 align="left">Hi 👋, I'm Sung</h1>
+<h3 align="left">A passionate SQL, Database, Data Analyst and Develop a Python automation program.</h3>
 
 - 🔭 I’m currently studying [SQLAIchemy ORM 2.0 ](coming.soon.COM)
 
@@ -15,13 +15,13 @@
 
 <h3 align="left">Software engineering portfolio </h3>
 <a href="https://github.com/Yami3366/finalCapstone" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="160" width="250" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="170" width="250" ></a>
 
 <a href="https://github.com/Yami3366/hoildayCapstone" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true" align="left" height="160" width="250" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true" align="left" height="170" width="250" ></a>
 
 <a href="https://github.com/Yami3366/luckbox" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="160" width="250" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="170" width="250" ></a>
 
 <p align="left">
 <div id="content">
