@@ -15,13 +15,13 @@
 
 <h3 align="left">Software engineering portfolio </h3>
 <a href="https://github.com/Yami3366/finalCapstone" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="100" width="150" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="160" width="200" ></a>
 
 <a href="https://github.com/Yami3366/hoildayCapstone" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true" align="left" height="100" width="150" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true" align="left" height="160" width="200" ></a>
 
 <a href="https://github.com/Yami3366/luckbox" target="_blank" rel="noreferrer">
-<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="100" width="150" ></a>
+<img src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true" align="left" height="160" width="200" ></a>
 
 <p align="left">
 <div id="content">
