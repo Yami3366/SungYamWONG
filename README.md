@@ -14,7 +14,8 @@
 <h3 align="left">Software engineering portfolio </h3>
 <p align="left">
 <div id="content">
-   <img src="yami3366.github.io/TM.png" alt="pic1">
+   <img src="![Alt Text](TM.png)
+/TM.png" alt="pic1">
    <img src="https://download.unsplash.com/photo-1429616588302-fec569e203ce" alt="pic1">
    <img src="https://download.unsplash.com/photo-1429616588302-fec569e203ce" alt="pic1">
 </div>
