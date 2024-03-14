@@ -13,9 +13,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Software engineering portfolio </h3>
 <a href="https://github.com/Yami3366/git_task_project" target="_blank" rel="noreferrer">
 <img src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true" align="left" height="200" width="300" ></a>
-<h3 align="left">Software engineering portfolio </h3>
+
 <p align="left">
 <div id="content">
 
