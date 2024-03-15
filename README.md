@@ -28,8 +28,7 @@
 
 <a href="https://github.com/Yami3366/luckbox" target="_blank"> LuckBox</a>  
 
-[LuckBox](https://github.com/Yami3366/luckbox/){:target="_blank"}
-[Hello, world!](http://www.google.com/){:target="_blank"}
+
 ***
 
 <div id="content">
