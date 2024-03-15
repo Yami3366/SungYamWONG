@@ -16,15 +16,19 @@
 <br>
 <img width="350" alt="TM" src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true">
 <a href="https://github.com/Yami3366/finalCapstone"> Task Manager</a>
-<br>
 
+***
 <img width="350" alt="hoilday" src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true">
 
 <a href="https://github.com/Yami3366/hoildayCapstone"> Northern Lights Tours Ticket Booking</a>
+
 ***
 
 <img width="350" alt="luckbox" src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true">
+
 <a href="https://github.com/Yami3366/luckbox"> Luck Box</a>
+
+
 ***
 
 <div id="content">
