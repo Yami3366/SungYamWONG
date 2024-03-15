@@ -11,9 +11,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ***
-<h3 align="left">Software engineering portfolio </h3>
+<h3 align="left">Software engineering portfolio </h3>  
 
-<br>
+
+
 <img width="350" alt="TM" src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true">
 <a href="https://github.com/Yami3366/finalCapstone"> Task Manager</a>
 
@@ -23,10 +24,9 @@
 <a href="https://github.com/Yami3366/hoildayCapstone"> Northern Lights Tours Ticket Booking</a>
 
 ***
+<img width="350" alt="h0" src="https://github.com/Yami3366/SungYamWONG/assets/159643271/68b95c78-45cf-42ed-8f45-08832753a1f5">  
 
-<img width="350" alt="luckbox" src="https://github.com/Yami3366/yami3366.github.io/blob/main/luckbox.jpeg?raw=true">
-
-<a href="https://github.com/Yami3366/luckbox"> Luck Box</a>
+<a href="https://github.com/Yami3366/luckbox"> Luck Box</a>  
 
 
 ***
