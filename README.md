@@ -16,17 +16,17 @@
 
 
 <img width="350" alt="TM" src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true">
-<a href="https://github.com/Yami3366/finalCapstone"> Task Manager</a>
+<a href="https://github.com/Yami3366/finalCapstone" target="_blank"> Task Manager</a>
 
 ***
 <img width="350" alt="hoilday" src="https://github.com/Yami3366/yami3366.github.io/blob/main/hoilday.jpeg?raw=true">
 
-<a href="https://github.com/Yami3366/hoildayCapstone"> Northern Lights Tours Ticket Booking</a>
+<a href="https://github.com/Yami3366/hoildayCapstone" target="_blank"> Northern Lights Tours Ticket Booking</a>
 
 ***
 <img width="350" alt="h0" src="https://github.com/Yami3366/SungYamWONG/assets/159643271/68b95c78-45cf-42ed-8f45-08832753a1f5">  
 
-<a href="https://github.com/Yami3366/luckbox"> Luck Box</a>  
+<a href="https://github.com/Yami3366/luckbox" target="_blank"> Luck Box</a>  
 
 
 ***
