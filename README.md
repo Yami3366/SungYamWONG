@@ -15,7 +15,8 @@
 
 
 
-<img width="350" alt="TM" src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true"
+<img width="350" alt="TM" src="https://github.com/Yami3366/yami3366.github.io/blob/main/TM.png?raw=true">  
+
 <a href="https://github.com/Yami3366/finalCapstone" target="_blank"> Task Manager</a>
 
 ***
