@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sung</h1>
 <h3 align="left">A passionate SQL, Database, Data Analyst and Develop a Python automation program.</h3>
 
-- 🔭 I’m currently studying [SQLAIchemy ORM 2.0 ](coming.soon.COM)
+- 🔭 I’m currently studying [SQLAIchemy ORM 2.0 ][(coming.soon.COM)](https://github.com/Yami3366/fastapi_sqlaichemy_crud)
 
 ***
 
