@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Sung</h1>
 <h3 align="left">A passionate SQL, Database, Data Analyst and Develop a Python automation program.</h3>
 
-- 🔭 I’m currently studying [SQLAIchemy ORM 2.0 ][(https://github.com/Yami3366/fastapi_sqlaichemy_crud)]
+- 🔭 I’m currently studying [SQLAIchemy ORM 2.0 ][(<a href="https://github.com/Yami3366/fastapi_sqlaichemy_crud" target="_blank"> FastAPI SQLAIchemy CRUD</a>)]
+
+
 
 ***
 
@@ -29,6 +31,17 @@
 
 <a href="https://github.com/Yami3366/luckbox" target="_blank"> LuckBox</a>  
 
+
+***
+<img width="350" alt="image" src="https://github.com/Yami3366/SungYamWONG/assets/159643271/b413c700-8d61-4478-abb6-0d41b2d023cc">
+
+<a href="https://github.com/Yami3366/phxdev" target="_blank"> Generate and Build a CRUD App from Phoenix 1.7</a>  
+
+
+***
+<img width="350" alt="image" src="https://github.com/Yami3366/SungYamWONG/assets/159643271/defc8649-643c-4e61-b378-52d79bcbd65a">
+
+<a href="https://github.com/Yami3366/fastapi_sqlaichemy_crud" target="_blank"> FastAPI SQLAIchemy CRUD</a>  
 
 ***
 
